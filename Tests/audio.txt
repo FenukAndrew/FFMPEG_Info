@@ -1,0 +1,69 @@
+ A..... aac                  AAC (Advanced Audio Coding)
+ A..... libfdk_aac           Fraunhofer FDK AAC (codec aac)
+ A..... ac3                  ATSC A/52A (AC-3)
+ A..... ac3_fixed            ATSC A/52A (AC-3) (codec ac3)
+ A..... adpcm_adx            SEGA CRI ADX ADPCM
+ A..... g722                 G.722 ADPCM (codec adpcm_g722)
+ A..... g726                 G.726 ADPCM (codec adpcm_g726)
+ A..... g726le               G.726 little endian ADPCM ("right-justified") (codec adpcm_g726le)
+ A..... adpcm_ima_qt         ADPCM IMA QuickTime
+ A..... adpcm_ima_wav        ADPCM IMA WAV
+ A..... adpcm_ms             ADPCM Microsoft
+ A..... adpcm_swf            ADPCM Shockwave Flash
+ A..... adpcm_yamaha         ADPCM Yamaha
+ A..... alac                 ALAC (Apple Lossless Audio Codec)
+ A..... libopencore_amrnb    OpenCORE AMR-NB (Adaptive Multi-Rate Narrow-Band) (codec amr_nb)
+ A..... comfortnoise         RFC 3389 comfort noise generator
+ A..X.. dca                  DCA (DTS Coherent Acoustics) (codec dts)
+ A..... eac3                 ATSC A/52 E-AC-3
+ A..... flac                 FLAC (Free Lossless Audio Codec)
+ A..... g723_1               G.723.1
+ A..X.. mlp                  MLP (Meridian Lossless Packing)
+ A..... mp2                  MP2 (MPEG audio layer 2)
+ A..... mp2fixed             MP2 fixed point (MPEG audio layer 2) (codec mp2)
+ A..... libmp3lame           libmp3lame MP3 (MPEG audio layer 3) (codec mp3)
+ A..... nellymoser           Nellymoser Asao
+ A..X.. opus                 Opus
+ A..... libopus              libopus Opus (codec opus)
+ A..... pcm_alaw             PCM A-law / G.711 A-law
+ A..... pcm_f32be            PCM 32-bit floating point big-endian
+ A..... pcm_f32le            PCM 32-bit floating point little-endian
+ A..... pcm_f64be            PCM 64-bit floating point big-endian
+ A..... pcm_f64le            PCM 64-bit floating point little-endian
+ A..... pcm_mulaw            PCM mu-law / G.711 mu-law
+ A..... pcm_s16be            PCM signed 16-bit big-endian
+ A..... pcm_s16be_planar     PCM signed 16-bit big-endian planar
+ A..... pcm_s16le            PCM signed 16-bit little-endian
+ A..... pcm_s16le_planar     PCM signed 16-bit little-endian planar
+ A..... pcm_s24be            PCM signed 24-bit big-endian
+ A..... pcm_s24daud          PCM D-Cinema audio signed 24-bit
+ A..... pcm_s24le            PCM signed 24-bit little-endian
+ A..... pcm_s24le_planar     PCM signed 24-bit little-endian planar
+ A..... pcm_s32be            PCM signed 32-bit big-endian
+ A..... pcm_s32le            PCM signed 32-bit little-endian
+ A..... pcm_s32le_planar     PCM signed 32-bit little-endian planar
+ A..... pcm_s64be            PCM signed 64-bit big-endian
+ A..... pcm_s64le            PCM signed 64-bit little-endian
+ A..... pcm_s8               PCM signed 8-bit
+ A..... pcm_s8_planar        PCM signed 8-bit planar
+ A..... pcm_u16be            PCM unsigned 16-bit big-endian
+ A..... pcm_u16le            PCM unsigned 16-bit little-endian
+ A..... pcm_u24be            PCM unsigned 24-bit big-endian
+ A..... pcm_u24le            PCM unsigned 24-bit little-endian
+ A..... pcm_u32be            PCM unsigned 32-bit big-endian
+ A..... pcm_u32le            PCM unsigned 32-bit little-endian
+ A..... pcm_u8               PCM unsigned 8-bit
+ A..... real_144             RealAudio 1.0 (14.4K) (codec ra_144)
+ A..... roq_dpcm             id RoQ DPCM
+ A..X.. s302m                SMPTE 302M
+ A..X.. sonic                Sonic
+ A..X.. sonicls              Sonic lossless
+ A..... libspeex             libspeex Speex (codec speex)
+ A..X.. truehd               TrueHD
+ A..... tta                  TTA (True Audio)
+ A..X.. vorbis               Vorbis
+ A..... libvorbis            libvorbis (codec vorbis)
+ A..... wavpack              WavPack
+ A..... libwavpack            (codec wavpack)
+ A..... wmav1                Windows Media Audio 1
+ A..... wmav2                Windows Media Audio 2

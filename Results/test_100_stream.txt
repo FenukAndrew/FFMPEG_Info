@@ -1,0 +1,777 @@
+
+File: Megamind.avi
+Format fullname: AVI (Audio Video Interleaved)
+Format: avi
+Duration: 11.2613
+Count streams: 2
+	Stream number: 0 - video
+	Frames: 270
+	Bit_rate: 638535
+	Resolution: 720x528
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+	Stream number: 1 - audio
+	Frames: 270270
+	Bit_rate: 192000
+	Channel: 2 Rate: 48000
+	Codec_id: 86019
+	Codec: [ac3] ATSC A/52A (AC-3)
+
+
+File: output.avi
+Format fullname: AVI (Audio Video Interleaved)
+Format: avi
+Duration: 10
+Count streams: 7
+	Stream number: 0 - video
+	Frames: 360
+	Bit_rate: 2954399
+	Resolution: 640x480
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+	Stream number: 1 - audio
+	Frames: 441000
+	Bit_rate: 705600
+	Channel: 1 Rate: 44100
+	Codec_id: 65536
+	Codec: [pcm_s16le] PCM signed 16-bit little-endian
+
+	Stream number: 2 - audio
+	Frames: 441000
+	Bit_rate: 705600
+	Channel: 1 Rate: 44100
+	Codec_id: 65536
+	Codec: [pcm_s16le] PCM signed 16-bit little-endian
+
+	Stream number: 3 - audio
+	Frames: 441000
+	Bit_rate: 705600
+	Channel: 1 Rate: 44100
+	Codec_id: 65536
+	Codec: [pcm_s16le] PCM signed 16-bit little-endian
+
+	Stream number: 4 - video
+	Frames: 250
+	Bit_rate: 113089
+	Resolution: 320x240
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+	Stream number: 5 - video
+	Frames: 300
+	Bit_rate: 1415809
+	Resolution: 1280x720
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+	Stream number: 6 - video
+	Frames: 30
+	Bit_rate: 291297
+	Resolution: 1280x720
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+
+File: output_all.avi
+Format fullname: AVI (Audio Video Interleaved)
+Format: avi
+Duration: 3.06503
+Count streams: 100
+	Stream number: 0 - audio
+	Frames: 32
+	Bit_rate: 69000
+	Channel: 1 Rate: 22050
+	Codec_id: 86018
+	Codec: [aac] AAC (Advanced Audio Coding)
+
+	Stream number: 1 - audio
+	Frames: 24
+	Bit_rate: 49181
+	Channel: 1 Rate: 22050
+	Codec_id: 86018
+	Codec: [aac] AAC (Advanced Audio Coding)
+
+	Stream number: 2 - audio
+	Frames: 44
+	Bit_rate: 96000
+	Channel: 1 Rate: 22050
+	Codec_id: 86019
+	Codec: [ac3] ATSC A/52A (AC-3)
+
+	Stream number: 3 - audio
+	Frames: 44
+	Bit_rate: 96000
+	Channel: 1 Rate: 22050
+	Codec_id: 86019
+	Codec: [ac3] ATSC A/52A (AC-3)
+
+	Stream number: 4 - audio
+	Frames: 33075
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 69660
+	Codec: [g722] G.722 ADPCM
+
+	Stream number: 5 - audio
+	Frames: 33075
+	Bit_rate: 88200
+	Channel: 1 Rate: 22050
+	Codec_id: 69643
+	Codec: [g726] G.726 ADPCM
+
+	Stream number: 6 - audio
+	Frames: 33
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 69633
+	Codec: [adpcm_ima_wav] ADPCM IMA WAV
+
+	Stream number: 7 - audio
+	Frames: 33
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 69638
+	Codec: [adpcm_ms] ADPCM Microsoft
+
+	Stream number: 8 - audio
+	Frames: 33475
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 69645
+	Codec: [adpcm_swf] ADPCM Shockwave Flash
+
+	Stream number: 9 - audio
+	Frames: 33
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 69646
+	Codec: [adpcm_yamaha] ADPCM Yamaha
+
+	Stream number: 10 - audio
+	Frames: 6624
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 73728
+	Codec: [amrnb] AMR-NB (Adaptive Multi-Rate NarrowBand)
+
+	Stream number: 11 - audio
+	Frames: 266240
+	Bit_rate: 1411200
+	Channel: 1 Rate: 22050
+	Codec_id: 86020
+	Codec: [dca] DCA (DTS Coherent Acoustics)
+
+	Stream number: 12 - audio
+	Frames: 57
+	Bit_rate: 160000
+	Channel: 1 Rate: 22050
+	Codec_id: 86016
+	Codec: [mp2] MP2 (MPEG audio layer 2)
+
+	Stream number: 13 - audio
+	Frames: 57
+	Bit_rate: 160000
+	Channel: 1 Rate: 22050
+	Codec_id: 86016
+	Codec: [mp2] MP2 (MPEG audio layer 2)
+
+	Stream number: 14 - audio
+	Frames: 117
+	Bit_rate: 32000
+	Channel: 1 Rate: 22050
+	Codec_id: 86017
+	Codec: [mp3float] MP3 (MPEG audio layer 3)
+
+	Stream number: 15 - audio
+	Frames: 66150
+	Bit_rate: 176400
+	Channel: 1 Rate: 22050
+	Codec_id: 65543
+	Codec: [pcm_alaw] PCM A-law / G.711 A-law
+
+	Stream number: 16 - audio
+	Frames: 66150
+	Bit_rate: 705600
+	Channel: 1 Rate: 22050
+	Codec_id: 65557
+	Codec: [pcm_f32le] PCM 32-bit floating point little-endian
+
+	Stream number: 17 - audio
+	Frames: 66150
+	Bit_rate: 1411200
+	Channel: 1 Rate: 22050
+	Codec_id: 65559
+	Codec: [pcm_f64le] PCM 64-bit floating point little-endian
+
+	Stream number: 18 - audio
+	Frames: 66150
+	Bit_rate: 176400
+	Channel: 1 Rate: 22050
+	Codec_id: 65542
+	Codec: [pcm_mulaw] PCM mu-law / G.711 mu-law
+
+	Stream number: 19 - audio
+	Frames: 66150
+	Bit_rate: 352800
+	Channel: 1 Rate: 22050
+	Codec_id: 65536
+	Codec: [pcm_s16le] PCM signed 16-bit little-endian
+
+	Stream number: 20 - audio
+	Frames: 66150
+	Bit_rate: 529200
+	Channel: 1 Rate: 22050
+	Codec_id: 65548
+	Codec: [pcm_s24le] PCM signed 24-bit little-endian
+
+	Stream number: 21 - audio
+	Frames: 66150
+	Bit_rate: 705600
+	Channel: 1 Rate: 22050
+	Codec_id: 65544
+	Codec: [pcm_s32le] PCM signed 32-bit little-endian
+
+	Stream number: 22 - audio
+	Frames: 66150
+	Bit_rate: 1411200
+	Channel: 1 Rate: 22050
+	Codec_id: 65567
+	Codec: [pcm_s64le] PCM signed 64-bit little-endian
+
+	Stream number: 23 - audio
+	Frames: 66150
+	Bit_rate: 176400
+	Channel: 1 Rate: 22050
+	Codec_id: 65541
+	Codec: [pcm_u8] PCM unsigned 8-bit
+
+	Stream number: 24 - audio
+	Frames: 5250
+	Bit_rate: 27800
+	Channel: 1 Rate: 16000
+	Codec_id: 86051
+	Codec: [speex] Speex
+
+	Stream number: 25 - audio
+	Frames: 1800
+	Bit_rate: 89619
+	Channel: 1 Rate: 22050
+	Codec_id: 86021
+	Codec: [vorbis] Vorbis
+
+	Stream number: 26 - audio
+	Frames: 65
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 86023
+	Codec: [wmav1] Windows Media Audio 1
+
+	Stream number: 27 - audio
+	Frames: 65
+	Bit_rate: 128000
+	Channel: 1 Rate: 22050
+	Codec_id: 86024
+	Codec: [wmav2] Windows Media Audio 2
+
+	Stream number: 28 - video
+	Frames: 86
+	Bit_rate: 411467
+	Resolution: 320x200
+
+	Stream number: 29 - video
+	Frames: 86
+	Bit_rate: 463511
+	Resolution: 320x200
+
+	Stream number: 30 - video
+	Frames: 90
+	Bit_rate: 9858822
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 31 - video
+	Frames: 90
+	Bit_rate: 174483
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 32 - video
+	Frames: 90
+	Bit_rate: 1632777
+	Resolution: 320x200
+	Codec_id: 31
+	Codec: [asv1] ASUS V1
+
+	Stream number: 33 - video
+	Frames: 90
+	Bit_rate: 1621321
+	Resolution: 320x200
+	Codec_id: 32
+	Codec: [asv2] ASUS V2
+
+	Stream number: 34 - video
+	Frames: 90
+	Bit_rate: 62130337
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 35 - video
+	Frames: 90
+	Bit_rate: 62130337
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 36 - video
+	Frames: 90
+	Bit_rate: 46610858
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 37 - video
+	Frames: 90
+	Bit_rate: 707380
+	Resolution: 320x200
+	Codec_id: 43
+	Codec: [cinepak] Cinepak
+
+	Stream number: 38 - video
+	Frames: 90
+	Bit_rate: 15532584
+	Resolution: 320x200
+	Codec_id: 36
+	Codec: [cljr] Cirrus Logic AccuPak
+
+	Stream number: 39 - video
+	Frames: 90
+	Bit_rate: 33655831
+	Resolution: 320x200
+	Codec_id: 116
+	Codec: [dirac] BBC Dirac VC-2
+
+	Stream number: 40 - video
+	Frames: 90
+	Bit_rate: 47001600
+	Resolution: 320x200
+	Codec_id: 128
+	Codec: [dpx] DPX (Digital Picture Exchange) image
+
+	Stream number: 41 - video
+	Frames: 90
+	Bit_rate: 802698
+	Resolution: 320x200
+	Codec_id: 33
+	Codec: [ffv1] FFmpeg video codec #1
+
+	Stream number: 42 - video
+	Frames: 90
+	Bit_rate: 7502680
+	Resolution: 320x200
+	Codec_id: 67
+	Codec: [ffvhuff] Huffyuv FFmpeg variant
+
+	Stream number: 43 - video
+	Frames: 90
+	Bit_rate: 46830742
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 44 - video
+	Frames: 90
+	Bit_rate: 366844
+	Resolution: 320x200
+	Codec_id: 86
+	Codec: [flashsv] Flash Screen Video v1
+
+	Stream number: 45 - video
+	Frames: 90
+	Bit_rate: 114774
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 46 - video
+	Frames: 90
+	Bit_rate: 290934
+	Resolution: 320x200
+	Codec_id: 21
+	Codec: [flv] FLV / Sorenson Spark / Sorenson H.263 (Flash Video)
+
+	Stream number: 47 - video
+	Frames: 90
+	Bit_rate: 892565
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 48 - video
+	Frames: 90
+	Bit_rate: 277413
+	Resolution: 320x200
+	Codec_id: 4
+	Codec: [h263] H.263 / H.263-1996, H.263+ / H.263-1998 / H.263 version 2
+
+	Stream number: 49 - video
+	Frames: 90
+	Bit_rate: 30725
+	Resolution: 320x200
+	Codec_id: 27
+	Codec: [h264] H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+
+	Stream number: 50 - video
+	Frames: 90
+	Bit_rate: 46191
+	Resolution: 320x200
+	Codec_id: 27
+	Codec: [h264] H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+
+	Stream number: 51 - video
+	Frames: 90
+	Bit_rate: 25796
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 52 - video
+	Frames: 90
+	Bit_rate: 10174641
+	Resolution: 320x200
+	Codec_id: 25
+	Codec: [huffyuv] Huffyuv / HuffYUV
+
+	Stream number: 53 - video
+	Frames: 90
+	Bit_rate: 3970886
+	Resolution: 320x200
+	Codec_id: 88
+	Codec: [jpeg2000] JPEG 2000
+
+	Stream number: 54 - video
+	Frames: 90
+	Bit_rate: 1253409
+	Resolution: 320x200
+	Codec_id: 11
+	Codec: [jpegls] JPEG-LS
+
+	Stream number: 55 - video
+	Frames: 90
+	Bit_rate: 750003
+	Resolution: 320x200
+	Codec_id: 7
+	Codec: [mjpeg] MJPEG (Motion JPEG)
+
+	Stream number: 56 - video
+	Frames: 90
+	Bit_rate: 104857200
+	Resolution: 320x200
+	Codec_id: 1
+	Codec: [mpeg1video] MPEG-1 video
+
+	Stream number: 57 - video
+	Frames: 90
+	Bit_rate: 320899
+	Resolution: 320x200
+	Codec_id: 2
+	Codec: [mpeg2video] MPEG-2 video
+
+	Stream number: 58 - video
+	Frames: 90
+	Bit_rate: 249999
+	Resolution: 320x200
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+	Stream number: 59 - video
+	Frames: 90
+	Bit_rate: 206640
+	Resolution: 320x200
+	Codec_id: 12
+	Codec: [mpeg4] MPEG-4 part 2
+
+	Stream number: 60 - video
+	Frames: 90
+	Bit_rate: 235327
+	Resolution: 320x200
+	Codec_id: 15
+	Codec: [msmpeg4v2] MPEG-4 part 2 Microsoft variant version 2
+
+	Stream number: 61 - video
+	Frames: 90
+	Bit_rate: 233563
+	Resolution: 320x200
+	Codec_id: 16
+	Codec: [msmpeg4] MPEG-4 part 2 Microsoft variant version 3
+
+	Stream number: 62 - video
+	Frames: 90
+	Bit_rate: 281345
+	Resolution: 320x200
+	Codec_id: 46
+	Codec: [msvideo1] Microsoft Video 1
+
+	Stream number: 63 - video
+	Frames: 90
+	Bit_rate: 46613043
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 64 - video
+	Frames: 90
+	Bit_rate: 1944243
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 65 - video
+	Frames: 90
+	Bit_rate: 4968674
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 66 - video
+	Frames: 90
+	Bit_rate: 15536225
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 67 - video
+	Frames: 90
+	Bit_rate: 23302517
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 68 - video
+	Frames: 90
+	Bit_rate: 548721
+	Resolution: 320x200
+	Codec_id: 61
+	Codec: [png] PNG (Portable Network Graphics) image
+
+	Stream number: 69 - video
+	Frames: 90
+	Bit_rate: 46601393
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 70 - video
+	Frames: 90
+	Bit_rate: 3984620
+	Resolution: 320x200
+	Codec_id: 147
+	Codec: [prores] Apple ProRes (iCodec Pro)
+
+	Stream number: 71 - video
+	Frames: 90
+	Bit_rate: 3984620
+	Resolution: 320x200
+	Codec_id: 147
+	Codec: [prores] Apple ProRes (iCodec Pro)
+
+	Stream number: 72 - video
+	Frames: 90
+	Bit_rate: 5110730
+	Resolution: 320x200
+	Codec_id: 147
+	Codec: [prores] Apple ProRes (iCodec Pro)
+
+	Stream number: 73 - video
+	Frames: 90
+	Bit_rate: 6260219
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 74 - video
+	Frames: 90
+	Bit_rate: 62130337
+	Resolution: 320x200
+	Codec_id: 144
+	Codec: [r10k] AJA Kona 10-bit RGB Codec
+
+	Stream number: 75 - video
+	Frames: 90
+	Bit_rate: 62130337
+	Resolution: 320x200
+	Codec_id: 133
+	Codec: [r210] Uncompressed RGB 10-bit
+
+	Stream number: 76 - video
+	Frames: 90
+	Bit_rate: 23298876
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 77 - video
+	Frames: 90
+	Bit_rate: 272117
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 78 - video
+	Frames: 90
+	Bit_rate: 5286030
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 79 - video
+	Frames: 90
+	Bit_rate: 320875
+	Resolution: 320x200
+	Codec_id: 209
+	Codec: [snow] Snow
+
+	Stream number: 80 - video
+	Frames: 90
+	Bit_rate: 35948885
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 81 - video
+	Frames: 90
+	Bit_rate: 520816
+	Resolution: 320x200
+	Codec_id: 22
+	Codec: [svq1] Sorenson Vector Quantizer 1 / Sorenson Video 1 / SVQ1
+
+	Stream number: 82 - video
+	Frames: 90
+	Bit_rate: 7866769
+	Resolution: 320x200
+	Codec_id: 93
+	Codec: [targa] Truevision Targa image
+
+	Stream number: 83 - video
+	Frames: 90
+	Bit_rate: 200476
+	Resolution: 320x200
+	Codec_id: 30
+	Codec: [theora] Theora
+
+	Stream number: 84 - video
+	Frames: 90
+	Bit_rate: 19406877
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 85 - video
+	Frames: 90
+	Bit_rate: 4597321
+	Resolution: 320x200
+	Codec_id: 152
+	Codec: [utvideo] Ut Video
+
+	Stream number: 86 - video
+	Frames: 90
+	Bit_rate: 43491236
+	Resolution: 320x200
+	Codec_id: 127
+	Codec: [v210] Uncompressed 4:2:2 10-bit
+
+	Stream number: 87 - video
+	Frames: 90
+	Bit_rate: 46597753
+	Resolution: 320x200
+	Codec_id: 203
+	Codec: [v308] Uncompressed packed 4:4:4
+
+	Stream number: 88 - video
+	Frames: 90
+	Bit_rate: 62130337
+	Resolution: 320x200
+	Codec_id: 204
+	Codec: [v408] Uncompressed packed QT 4:4:4:4
+
+	Stream number: 89 - video
+	Frames: 90
+	Bit_rate: 62130337
+	Resolution: 320x200
+	Codec_id: 156
+	Codec: [v410] Uncompressed 4:4:4 10-bit
+
+	Stream number: 90 - video
+	Frames: 90
+	Bit_rate: 108013
+	Resolution: 320x200
+	Codec_id: 139
+	Codec: [vp8] On2 VP8
+
+	Stream number: 91 - video
+	Frames: 90
+	Bit_rate: 247036
+	Resolution: 320x200
+	Codec_id: 17
+	Codec: [wmv1] Windows Media Video 7
+
+	Stream number: 92 - video
+	Frames: 90
+	Bit_rate: 294140
+	Resolution: 320x200
+	Codec_id: 18
+	Codec: [wmv2] Windows Media Video 8
+
+	Stream number: 93 - video
+	Frames: 90
+	Bit_rate: 95137
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 94 - video
+	Frames: 90
+	Bit_rate: 11720063
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 95 - video
+	Frames: 90
+	Bit_rate: 46624692
+	Resolution: 320x200
+	Codec_id: 13
+	Codec: [rawvideo] raw video
+
+	Stream number: 96 - video
+	Frames: 90
+	Bit_rate: 23298876
+	Resolution: 320x200
+	Codec_id: 197
+	Codec: [y41p] Uncompressed YUV 4:1:1 12-bit
+
+	Stream number: 97 - video
+	Frames: 90
+	Bit_rate: 23298876
+	Resolution: 320x200
+	Codec_id: 205
+	Codec: [yuv4] Uncompressed packed 4:2:0
+
+	Stream number: 98 - video
+	Frames: 90
+	Bit_rate: 527021
+	Resolution: 320x200
+	Codec_id: 54
+	Codec: [zlib] LCL (LossLess Codec Library) ZLIB
+
+	Stream number: 99 - video
+	Frames: 90
+	Bit_rate: 455916
+	Resolution: 320x200
+	Codec_id: 81
+	Codec: [zmbv] Zip Motion Blocks Video
+
